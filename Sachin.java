@@ -3,7 +3,7 @@ class Sachin
 	public static void main(String[] args) 
 	{
 			int i=70;
-			int j=30;
+			int j=300;
 			int k=i+j;
 			
 		
