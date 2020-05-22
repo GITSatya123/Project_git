@@ -2,7 +2,8 @@ public class Test
 {
 	public static void main(String[] args) 
 	{
-		i=20;
-		System.out.println(i);
+		k=208;
+		
+		System.out.println(k);
 	}
 }
