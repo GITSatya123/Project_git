@@ -8,5 +8,8 @@ class Sachin
 			
 		
 		System.out.println(k);
+
+	public void m1(){
+		System.out.println("m1");
 	}
 }
