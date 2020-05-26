@@ -2,7 +2,7 @@ public class Demo
 {
 	public static void main(String[] args) 
 	{
-		int i=80;
+		int i=800;
 	
 		System.out.println("Hello");
 	}
