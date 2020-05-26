@@ -2,7 +2,11 @@ public class Demo
 {
 	public static void main(String[] args) 
 	{
-		int i=800;
+
+		int i=500;
+
+		
+
 	
 		System.out.println("Hello");
 	}
