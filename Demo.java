@@ -4,6 +4,7 @@ public class Demo
 	{
 
 		int i=500;
+		int j=600;
 
 		
 
